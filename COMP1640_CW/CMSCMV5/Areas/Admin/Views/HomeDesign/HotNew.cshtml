@@ -1,0 +1,80 @@
+﻿
+@model List<CMSCMV5.DAO.New>
+@{
+    ViewBag.Title = "List Tour";
+}
+
+@section style{
+    <style>
+        .table td a {
+            display: block;
+        }
+    </style>
+}
+
+
+<section class="content-header">
+    <h1>
+        Quản lý bài viết trên trang chủ
+        <small>Control panel</small>
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li class="active">Giao diện trang chủ</li>
+    </ol>
+</section>
+
+<section class="content">
+    <div class="row">
+        <div class="alert alert-success">
+            @TempData["mess"]
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Danh sách bài viết không hiển thị trên trang chủ
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Ảnh</th>
+                                    <th>Tên</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null)
+                                {
+                                    int i = 0;
+                                    foreach (var item in Model)
+                                    {
+                                        i++;
+                                        <tr>
+                                            <td>@item.Id</td>
+                                            <td><img src="@item.img" style="width:100px;height:50px;" /></td>
+                                            <td>@item.Title</td>
+                                            <td><a href="@Url.Action("AddHostNewIsHome", new { id = item.Id })"><i style="color: #0E82BD;" class="fa fa-arrow-right"></i></a></td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+
+        <div id="FormData">
+            @{Html.RenderAction("HostNewIsHome");}
+        </div>
+
+    </div>
+</section>

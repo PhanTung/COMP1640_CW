@@ -1,0 +1,104 @@
+﻿@model List<CMSCMV5.DAO.asp_User>
+@{
+    ViewBag.Title = "ListAccount";
+}
+
+@section style{
+    <style>
+        .table td a {
+            display: block;
+        }
+
+        .trdefault.hover {
+            cursor: pointer;
+            background-color: rgba(52, 135, 183, 0.65);
+        }
+    </style>
+}
+
+
+<div class="row" style="height:15px;"></div>
+<div class="row">
+    <div class="col-lg-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Danh sách nhóm quyền
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Tài khoản</th>
+                                <th>Tên người dùng</th>
+                                <th>Email</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                int i = 0;
+                                foreach (var item in Model)
+                                {
+                                    i++;
+                                    if (ViewBag.Id == item.account)
+                                    {
+                                        <tr style="background-color: rgba(51, 122, 183, 1);">
+                                            <td>@i</td>
+                                            <td>@item.account</td>
+                                            <td>@item.userName</td>
+                                            <td>@item.email</td>
+                                            <td><i style="color: #fff;" class="fa fa-arrow-right"></i></td>
+                                        </tr>
+                                    }
+                                    else
+                                    {
+
+                                        <tr class="trdefault">
+                                            <td><a href="@Url.Action("listaccount", new { id = item.account })"></a>@i</td>
+                                            <td>@item.account</td>
+                                            <td>@item.userName</td>
+                                            <td>@item.email</td>
+                                            <td></td>
+                                        </tr>
+
+                                    }
+
+                                }
+                                if (ViewBag.Id == "0")
+                                {
+                                    <tr style="background-color: rgba(51, 122, 183, 1);">                                        
+                                        <td colspan="4">Đang thiết lập một tài khoản mới</td>
+                                        <td><i style="color: #fff;" class="fa fa-arrow-right"></i></td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <a href="@Url.Action("addaccount")" class="btn btn-outline btn-primary btn-lg btn-block">Thêm một tài khoản mới</a>
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+
+    @Html.Action("Account", new { id = ViewBag.Id })
+
+</div>
+
+@section scripts{
+    <script>
+        $('tr').click(function () {
+            var link = $(this).find('a').attr('href');
+            if (typeof (link) != "undefined") {
+                window.location = $(this).find('a').attr('href');
+            }            
+        }).hover(function () {
+            $(this).toggleClass('hover');
+        });
+    </script>
+}

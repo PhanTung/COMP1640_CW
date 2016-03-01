@@ -1,0 +1,100 @@
+﻿@model List<CMSCMV5.DAO.asp_Group>
+@{
+    ViewBag.Title = "ListGroup";
+}
+
+@section style{
+    <style>
+        .table td a {
+            display: block;
+        }
+
+        .trdefault.hover {
+            cursor: pointer;
+            background-color: rgba(52, 135, 183, 0.65);          
+        }
+    </style>
+}
+
+
+<div class="row" style="height:15px;"></div>
+<div class="row">
+    <div class="col-lg-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Danh sách nhóm quyền
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Tên nhóm</th>
+                                <th>Mô tả</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                int i = 0;
+                                foreach (var item in Model)
+                                {
+                                    i++;
+                                    if (ViewBag.Id == item.id)
+                                    {
+                                        <tr style="background-color: rgba(51, 122, 183, 1);">
+                                            <td>@i</td>
+                                            <td>@item.name</td>
+                                            <td>@item.description</td>
+                                            <td><i style="color: #fff;" class="fa fa-arrow-right"></i></td>
+                                        </tr>
+                                    }
+                                    else
+                                    {
+
+                                        <tr class="trdefault">
+                                            <td><a href="@Url.Action("listgroup", new { id = item.id })"></a>@i</td>
+                                            <td>@item.name</td>
+                                            <td>@item.description</td>
+                                            <td></td>
+                                        </tr>
+
+                                    }
+                                }
+                                if (ViewBag.Id == -1)
+                                {
+                                    <tr style="background-color: rgba(51, 122, 183, 1);">
+                                        <td colspan="3">Đang thiết lập một nhóm mới</td>
+                                        <td><i style="color: #fff;" class="fa fa-arrow-right"></i></td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <a href="@Url.Action("AddGroup")" class="btn btn-outline btn-primary btn-lg btn-block">Thêm một nhóm mới</a>
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+
+    @Html.Action("Group", new { id = ViewBag.Id })
+
+</div>
+
+@section scripts{
+    <script>
+        $('tr').click(function () {
+            var link = $(this).find('a').attr('href');
+            if (typeof(link) != "undefined") {
+                window.location = $(this).find('a').attr('href');
+            }
+        }).hover(function () {
+            $(this).toggleClass('hover');
+        });
+    </script>
+}

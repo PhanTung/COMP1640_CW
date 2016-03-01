@@ -1,0 +1,114 @@
+
+.table-bordered {
+    border: none;
+    margin-top: 30px;
+}
+
+.datetimepicker-inline {
+    width: auto !important;
+}
+
+.datetimepicker-minutes {
+    width: 100% !important;
+}
+
+.datetimepicker-days {
+    width: 100% !important;
+}
+
+.datetimepicker-hours {
+    width: 100% !important;
+}
+
+.datetimepicker-months {
+    width: 100% !important;
+}
+
+.datetimepicker-years {
+    width: 100% !important;
+}
+
+.table-condensed {
+    width: 100% !important;
+}
+
+.switch {
+    background-color: #eeeeee !important;
+    border-radius: 0px !important;
+    margin:auto;
+}
+
+tr .prev {
+    background-color: #eee !important;
+    border-radius: 0px !important;
+    background-image: none !important;
+}
+
+.prev .icon-arrow-left {
+    width: 0 !important;
+    height: 0 !important;
+    background: url(../template/images/icon.png) no-repeat;
+    background-position: -80px -192px;
+}
+
+tr .next {
+    background-color: #eee !important;
+    border-radius: 0px !important;
+    background-image: none !important;
+}
+
+.next .icon-arrow-right {
+    width: 0 !important;
+    height: 0 !important;
+    background: url(../template/images/icon.png) no-repeat;
+    background-position: -48px -192px;
+}
+.datepicker1 .prev{
+            width:0;
+            height:0;
+        bottom:0;
+        left:0;
+        top:inherit;
+        }
+        .datepicker1 .next{
+            height:0;
+            width:0;
+        bottom:0;
+        right:0;
+        top:inherit;
+        }
+
+
+
+
+        input[type="checkbox"], input[type="radio"] {
+    width:auto!important;
+    height: auto;
+    padding: 0;
+    margin: 3px 0;
+    line-height: normal;
+    cursor: pointer;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    border: 0 \9;
+}
+        .ml {
+    margin-left: 20px;
+    font-weight: bold;
+    cursor: pointer;display: block;
+    margin-bottom: 5px;
+    color: #333333;
+}
+        span.required {
+            color: red;
+        }
+    .checkbox {
+    min-height: 20px!important;
+   
+}
+
+@media (max-width: 480px)
+{
+        
+}

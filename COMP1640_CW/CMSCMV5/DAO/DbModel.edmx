@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="asp_Group">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="description" Type="nvarchar" MaxLength="1024" />
+          <Property Name="status" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="asp_Group_Role">
+          <Key>
+            <PropertyRef Name="roleName" />
+            <PropertyRef Name="groupid" />
+          </Key>
+          <Property Name="roleName" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="groupid" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="asp_Role">
+          <Key>
+            <PropertyRef Name="name" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="description" Type="nvarchar" MaxLength="1024" />
+          <Property Name="status" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="asp_User">
+          <Key>
+            <PropertyRef Name="account" />
+          </Key>
+          <Property Name="account" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="password" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="userName" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="email" Type="nvarchar" MaxLength="128" />
+        </EntityType>
+        <EntityType Name="asp_User_Group">
+          <Key>
+            <PropertyRef Name="userid" />
+            <PropertyRef Name="groupid" />
+          </Key>
+          <Property Name="userid" Type="nvarchar" MaxLength="32" Nullable="false" />
+          <Property Name="groupid" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__asp_Group__group__1920BF5C">
+          <End Role="asp_Group" Type="Self.asp_Group" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="asp_Group_Role" Type="Self.asp_Group_Role" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="asp_Group">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="asp_Group_Role">
+              <PropertyRef Name="groupid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__asp_Group__roleN__182C9B23">
+          <End Role="asp_Role" Type="Self.asp_Role" Multiplicity="1" />
+          <End Role="asp_Group_Role" Type="Self.asp_Group_Role" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="asp_Role">
+              <PropertyRef Name="name" />
+            </Principal>
+            <Dependent Role="asp_Group_Role">
+              <PropertyRef Name="roleName" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__asp_User___group__1CF15040">
+          <End Role="asp_Group" Type="Self.asp_Group" Multiplicity="1" />
+          <End Role="asp_User_Group" Type="Self.asp_User_Group" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="asp_Group">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="asp_User_Group">
+              <PropertyRef Name="groupid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__asp_User___useri__1BFD2C07">
+          <End Role="asp_User" Type="Self.asp_User" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="asp_User_Group" Type="Self.asp_User_Group" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="asp_User">
+              <PropertyRef Name="account" />
+            </Principal>
+            <Dependent Role="asp_User_Group">
+              <PropertyRef Name="userid" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DBModelStoreContainer">
+          <EntitySet Name="asp_Group" EntityType="Self.asp_Group" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="asp_Group_Role" EntityType="Self.asp_Group_Role" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="asp_Role" EntityType="Self.asp_Role" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="asp_User" EntityType="Self.asp_User" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="asp_User_Group" EntityType="Self.asp_User_Group" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__asp_Group__group__1920BF5C" Association="Self.FK__asp_Group__group__1920BF5C">
+            <End Role="asp_Group" EntitySet="asp_Group" />
+            <End Role="asp_Group_Role" EntitySet="asp_Group_Role" />
+          </AssociationSet>
+          <AssociationSet Name="FK__asp_Group__roleN__182C9B23" Association="Self.FK__asp_Group__roleN__182C9B23">
+            <End Role="asp_Role" EntitySet="asp_Role" />
+            <End Role="asp_Group_Role" EntitySet="asp_Group_Role" />
+          </AssociationSet>
+          <AssociationSet Name="FK__asp_User___group__1CF15040" Association="Self.FK__asp_User___group__1CF15040">
+            <End Role="asp_Group" EntitySet="asp_Group" />
+            <End Role="asp_User_Group" EntitySet="asp_User_Group" />
+          </AssociationSet>
+          <AssociationSet Name="FK__asp_User___useri__1BFD2C07" Association="Self.FK__asp_User___useri__1BFD2C07">
+            <End Role="asp_User" EntitySet="asp_User" />
+            <End Role="asp_User_Group" EntitySet="asp_User_Group" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="asp_Group">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" />
+          <Property Name="status" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="asp_Role" Relationship="Self.asp_Group_Role" FromRole="asp_Group" ToRole="asp_Role" />
+          <NavigationProperty Name="asp_User" Relationship="Self.asp_User_Group" FromRole="asp_Group" ToRole="asp_User" />
+        </EntityType>
+        <EntityType Name="asp_Role">
+          <Key>
+            <PropertyRef Name="name" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" />
+          <Property Name="status" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="asp_Group" Relationship="Self.asp_Group_Role" FromRole="asp_Role" ToRole="asp_Group" />
+        </EntityType>
+        <EntityType Name="asp_User">
+          <Key>
+            <PropertyRef Name="account" />
+          </Key>
+          <Property Name="account" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="userName" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="email" Type="String" MaxLength="128" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="asp_Group" Relationship="Self.asp_User_Group" FromRole="asp_User" ToRole="asp_Group" />
+        </EntityType>
+        <Association Name="asp_Group_Role">
+          <End Role="asp_Group" Type="Self.asp_Group" Multiplicity="*" />
+          <End Role="asp_Role" Type="Self.asp_Role" Multiplicity="*" />
+        </Association>
+        <Association Name="asp_User_Group">
+          <End Role="asp_Group" Type="Self.asp_Group" Multiplicity="*" />
+          <End Role="asp_User" Type="Self.asp_User" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="asp_Group" EntityType="Self.asp_Group" />
+          <EntitySet Name="asp_Role" EntityType="Self.asp_Role" />
+          <EntitySet Name="asp_User" EntityType="Self.asp_User" />
+          <AssociationSet Name="asp_Group_Role" Association="Self.asp_Group_Role">
+            <End Role="asp_Group" EntitySet="asp_Group" />
+            <End Role="asp_Role" EntitySet="asp_Role" />
+          </AssociationSet>
+          <AssociationSet Name="asp_User_Group" Association="Self.asp_User_Group">
+            <End Role="asp_Group" EntitySet="asp_Group" />
+            <End Role="asp_User" EntitySet="asp_User" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DBModelStoreContainer" CdmEntityContainer="Entities">
+          <EntitySetMapping Name="asp_Group">
+            <EntityTypeMapping TypeName="DBModel.asp_Group">
+              <MappingFragment StoreEntitySet="asp_Group">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="asp_Role">
+            <EntityTypeMapping TypeName="DBModel.asp_Role">
+              <MappingFragment StoreEntitySet="asp_Role">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="asp_User">
+            <EntityTypeMapping TypeName="DBModel.asp_User">
+              <MappingFragment StoreEntitySet="asp_User">
+                <ScalarProperty Name="account" ColumnName="account" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="userName" ColumnName="userName" />
+                <ScalarProperty Name="email" ColumnName="email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="asp_Group_Role" TypeName="DBModel.asp_Group_Role" StoreEntitySet="asp_Group_Role">
+            <EndProperty Name="asp_Group">
+              <ScalarProperty Name="id" ColumnName="groupid" />
+            </EndProperty>
+            <EndProperty Name="asp_Role">
+              <ScalarProperty Name="name" ColumnName="roleName" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <AssociationSetMapping Name="asp_User_Group" TypeName="DBModel.asp_User_Group" StoreEntitySet="asp_User_Group">
+            <EndProperty Name="asp_Group">
+              <ScalarProperty Name="id" ColumnName="groupid" />
+            </EndProperty>
+            <EndProperty Name="asp_User">
+              <ScalarProperty Name="account" ColumnName="userid" />
+            </EndProperty>
+          </AssociationSetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

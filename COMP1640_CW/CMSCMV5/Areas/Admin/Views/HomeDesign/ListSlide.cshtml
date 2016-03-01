@@ -1,0 +1,113 @@
+﻿@model List<CMSCMV5.DAO.SlideBaner>
+@{
+    ViewBag.Title = "SlideBaner";
+}
+
+@section style{
+    <style>
+        .table td a {
+            display: block;
+        }
+
+        .trdefault.hover {
+            cursor: pointer;
+            background-color: rgba(52, 135, 183, 0.65);
+        }
+    </style>
+}
+
+
+<section class="content-header">
+    <h1>
+        Cấu hình SlideShow
+        <small>Control panel</small>
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li class="active">Giao diện trang chủ</li>
+    </ol>
+</section>
+
+<section class="content">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Danh sách SlideShow
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Ảnh</th>
+                                    <th>Link</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null)
+                                {
+                                    int i = 0;
+                                    foreach (var item in Model)
+                                    {
+                                        i++;
+                                        if (ViewBag.Id == item.Id)
+                                        {
+                                            <tr style="background-color: rgba(51, 122, 183, 1);">
+                                                <td>@item.Oder</td>
+                                                <td><img src="@item.Img" style="width:100px;height:50px;" /></td>
+                                                <td>@item.Link</td>
+                                                <td><i style="color: #fff;" class="fa fa-arrow-right"></i></td>
+                                            </tr>
+                                        }
+                                        else
+                                        {
+
+                                            <tr class="trdefault">
+                                                <td><a href="@Url.Action("listslide", new { id = item.Id })"></a>@item.Oder</td>
+                                                <td><img src="@item.Img" style="width:100px;height:50px;" /></td>
+                                                <td>@item.Link</td>
+                                                <td></td>
+                                            </tr>
+
+                                        }
+                                    }
+                                    if (ViewBag.Id == -1)
+                                    {
+                                        <tr style="background-color: rgba(51, 122, 183, 1);">
+                                            <td colspan="3">Đang thiết lập một slideshow</td>
+                                            <td><i style="color: #fff;" class="fa fa-arrow-right"></i></td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <a href="@Url.Action("listslide", new { id = -1 })" class="btn btn-outline btn-primary btn-lg btn-block">Thêm một slideshow mới</a>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+
+        <div id="FormData">
+            @{Html.RenderAction("Slide", new { id = ViewBag.Id });}
+        </div>
+
+    </div>
+</section>
+@section scripts{
+    <script>
+        $('tr').click(function () {
+            var link = $(this).find('a').attr('href');
+            if (typeof (link) != "undefined") {
+                window.location = $(this).find('a').attr('href');
+            }
+        }).hover(function () {
+            $(this).toggleClass('hover');
+        });
+    </script>
+}

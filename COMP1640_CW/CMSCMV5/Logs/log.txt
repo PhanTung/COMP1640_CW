@@ -1,0 +1,2261 @@
+﻿[2015-11-27 09:59:33,800 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 09:59:34,300 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 09:59:34,331 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 09:59:34,557 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 09:59:34,647 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 09:59:34,663 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:02:24,956 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:02:24,994 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:02:25,273 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:02:29,656 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:02:29,803 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:02:29,824 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:02:29,840 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:02:30,024 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:02:30,124 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:02:30,140 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:02:32,104 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:02:32,151 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:02:38,374 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:13:22,364 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:13:22,427 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:13:22,428 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:15:04,240 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:15:04,371 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:15:04,402 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:15:04,587 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:15:04,687 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:15:04,724 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:15:55,480 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:15:55,515 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:15:55,515 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:00,404 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:16:00,535 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:16:00,567 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:16:01,422 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:16:01,505 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:16:01,537 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:16:22,846 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:23,146 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:23,146 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:27,632 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:16:27,801 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:16:27,817 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:16:27,833 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:16:28,001 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:16:28,248 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:16:28,248 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:16:28,248 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:16:28,248 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:16:28,248 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:16:28,263 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:16:28,263 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:16:28,263 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:16:28,263 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:16:28,263 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:16:41,565 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:41,603 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:41,603 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:16:49,372 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:16:49,510 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:16:49,541 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:16:49,758 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:16:49,858 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:16:49,873 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:17:01,901 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:17:01,932 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:17:01,932 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:17:23,065 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:17:23,225 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:17:23,268 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:17:23,274 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:17:23,274 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:17:23,274 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:17:23,274 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:17:23,274 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:17:23,274 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:17:23,275 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:17:23,275 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:17:23,633 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:17:23,737 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:17:23,749 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:18:20,818 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:18:21,038 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:18:21,055 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:18:21,071 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:18:21,240 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:18:21,356 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:18:21,372 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:19:23,622 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:19:23,820 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:19:23,855 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:19:23,859 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:19:24,074 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:19:24,343 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:19:24,368 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:20:33,403 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:20:33,983 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:20:34,011 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:20:34,019 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:20:34,019 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:20:34,019 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:20:34,019 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:20:34,020 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:20:34,020 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:20:34,020 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:20:34,020 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:20:34,218 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:20:34,430 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:20:34,450 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:20:34,451 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:21:24,521 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:21:24,550 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:21:24,810 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:21:27,703 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:21:27,840 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:21:27,855 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:21:27,858 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:21:28,858 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:21:28,917 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:21:28,929 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:21:38,602 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:21:38,630 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:21:38,891 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:21:42,820 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:21:42,956 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:21:42,975 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:21:42,979 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:21:43,277 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:21:43,399 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:21:43,413 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:21:43,414 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:22:42,919 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:22:42,952 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:22:42,955 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-11-27 10:22:49,946 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:22:50,116 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:22:50,151 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:22:50,155 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:22:50,317 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:22:50,380 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:22:50,399 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:22:50,431 INFO  Hangfire.Server.ServerWatchdog] - 2 servers were removed due to timeout
+[2015-11-27 10:23:33,337 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:23:33,572 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:23:33,596 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:23:33,600 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:23:33,600 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:23:33,600 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:23:33,601 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:23:33,601 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:23:33,601 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:23:33,601 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:23:33,601 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:23:33,815 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:23:33,929 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:23:33,944 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:25:21,801 INFO  Hangfire.Server.DelayedJobScheduler] - Error occurred during execution of 'DelayedJobScheduler' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerDistributedLock..ctor(SqlServerStorage storage, String resource, TimeSpan timeout)
+   at Hangfire.SqlServer.SqlServerConnection.AcquireDistributedLock(String resource, TimeSpan timeout)
+   at Hangfire.Server.DelayedJobScheduler.EnqueueNextScheduledJob(BackgroundProcessContext context)
+   at Hangfire.Server.DelayedJobScheduler.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,804 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #939dce06' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,802 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #77c972a3' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,801 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #c1d330f8' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,805 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #16c90de1' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,805 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #41b395aa' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,806 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #d9bbfcec' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,806 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #f7c6af39' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,804 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #9ccb1992' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,807 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #3392ef38' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,806 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #b21e3392' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,809 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #0405738d' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:21,805 INFO  Hangfire.Server.ServerHeartbeat] - Error occurred during execution of 'ServerHeartbeat' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerStorage.UseConnection[T](Func`2 func)
+   at Hangfire.SqlServer.SqlServerStorage.UseConnection(Action`1 action)
+   at Hangfire.SqlServer.SqlServerConnection.Heartbeat(String serverId)
+   at Hangfire.Server.ServerHeartbeat.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,673 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #3c29973a' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,684 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #5be26278' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,686 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #46970d39' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,688 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #2ff09104' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,689 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #96b4a840' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,690 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #a8344e8a' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,690 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #a6fc0dec' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,691 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #656b8f7f' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,701 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #9a5c8759' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,702 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #bf21e230' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,715 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #37f68d8d' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,716 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #9678a248' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:25:23,717 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #5287164a' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.) ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:e206de9f-aab9-4045-844a-eb477c0fd8ff
+Error Number:258,State:0,Class:20
+[2015-11-27 10:27:51,885 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #60cd2d33' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:27:51,886 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #98b7c4fb' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:27:51,889 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #a23edc4f' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:27:51,891 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #e21f6336' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:27:51,894 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #9f078f2e' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:27:51,900 INFO  CMSCMV5.Hangfire.JobBackgroud] - nội dung nhận lại được:
+
+
+
+
+
+<html>
+<head>
+  <title>Processing</title>
+  <META HTTP-EQUIV=Refresh CONTENT="1; URL=vpcpost.op ">
+  <meta http-equiv="cache-control" content="no-cache">
+</head>
+<body onload="document.getElementById('vpcForm').submit();">
+
+<form name="vpcForm" id="vpcForm" action="vpcpost.op" method="post">
+  
+  <input type="hidden" name="vpc_AccessCode" value="3E82652C"/>
+  
+  <input type="hidden" name="vpc_Password" value="op123456"/>
+  
+  <input type="hidden" name="vpc_Version" value="1"/>
+  
+  <input type="hidden" name="vpc_MerchTxnRef" value="aa3512743dcc8f6766111db520c4bc48"/>
+  
+  <input type="hidden" name="vpc_Command" value="queryDR"/>
+  
+  <input type="hidden" name="vpc_Merchant" value="24HVISA1"/>
+  
+  <input type="hidden" name="vpc_User" value="op01"/>
+  
+    <input type="hidden" name="client_refer" value="null"/>
+</form>
+</body>
+</html>
+[2015-11-27 10:27:53,254 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #957800d4' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.Data.SqlClient.SqlException (0x80131904): The client was unable to establish a connection because of an error during connection initialization process before login. Possible causes include the following:  the client tried to connect to an unsupported version of SQL Server; the server was too busy to accept new connections; or there was a resource limitation (insufficient memory or maximum allowed connections) on the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:80465df9-8cb2-4a29-a0e6-20fc90d9f293
+Error Number:10054,State:0,Class:20
+[2015-11-27 10:27:53,257 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #c3202578' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): The client was unable to establish a connection because of an error during connection initialization process before login. Possible causes include the following:  the client tried to connect to an unsupported version of SQL Server; the server was too busy to accept new connections; or there was a resource limitation (insufficient memory or maximum allowed connections) on the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:80465df9-8cb2-4a29-a0e6-20fc90d9f293
+Error Number:10054,State:0,Class:20
+[2015-11-27 10:27:53,260 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #6a993ee0' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): The client was unable to establish a connection because of an error during connection initialization process before login. Possible causes include the following:  the client tried to connect to an unsupported version of SQL Server; the server was too busy to accept new connections; or there was a resource limitation (insufficient memory or maximum allowed connections) on the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:80465df9-8cb2-4a29-a0e6-20fc90d9f293
+Error Number:10054,State:0,Class:20
+[2015-11-27 10:28:00,016 INFO  Hangfire.Server.DelayedJobScheduler] - Error occurred during execution of 'DelayedJobScheduler' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.Data.SqlClient.SqlException (0x80131904): The client was unable to establish a connection because of an error during connection initialization process before login. Possible causes include the following:  the client tried to connect to an unsupported version of SQL Server; the server was too busy to accept new connections; or there was a resource limitation (insufficient memory or maximum allowed connections) on the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerStorage.UseConnection[T](Func`2 func)
+   at Hangfire.SqlServer.SqlServerConnection.GetFirstByLowestScoreFromSet(String key, Double fromScore, Double toScore)
+   at Hangfire.Server.DelayedJobScheduler.EnqueueNextScheduledJob(BackgroundProcessContext context)
+   at Hangfire.Server.DelayedJobScheduler.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:80465df9-8cb2-4a29-a0e6-20fc90d9f293
+Error Number:10054,State:0,Class:20
+[2015-11-27 10:28:53,727 INFO  Hangfire.Server.ServerWatchdog] - 2 servers were removed due to timeout
+[2015-11-27 10:28:53,733 INFO  Hangfire.Server.ServerWatchdog] - Error occurred during execution of 'ServerWatchdog' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:01 seconds.
+System.Data.SqlClient.SqlException (0x80131904): The client was unable to establish a connection because of an error during connection initialization process before login. Possible causes include the following:  the client tried to connect to an unsupported version of SQL Server; the server was too busy to accept new connections; or there was a resource limitation (insufficient memory or maximum allowed connections) on the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerStorage.UseConnection[T](Func`2 func)
+   at Hangfire.SqlServer.SqlServerConnection.RemoveTimedOutServers(TimeSpan timeOut)
+   at Hangfire.Server.ServerWatchdog.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+ClientConnectionId:80465df9-8cb2-4a29-a0e6-20fc90d9f293
+Error Number:10054,State:0,Class:20
+[2015-11-27 10:34:23,860 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:34:24,057 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:34:24,081 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:34:24,084 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:34:24,085 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:34:24,383 INFO  Hangfire.Server.ServerWatchdog] - 1 servers were removed due to timeout
+[2015-11-27 10:34:25,512 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 10:34:25,598 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 10:34:25,617 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 10:36:09,977 INFO  CMSCMV5.Hangfire.JobBackgroud] - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>nội dung nhận lại được:
+
+
+
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>
+        OnePAY PAYMENT GATEWAY
+    </title>
+    
+    
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+
+
+    <link media="screen" rel="stylesheet" type="text/css" href="./styles/paygate.css">
+
+    <script src="./js/jquery-1.11.1.min.js"></script>
+    <!--icon-->
+    <link rel="stylesheet" href="./font-awesome-4.2.0/css/font-awesome.min.css">
+    <script src="./js/bootstrap.min.js"></script>
+    <!--theme-->
+    <link rel="stylesheet" href="./styles/theme/bootstrap.min.css">
+
+    <script src="./js/card.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            if($( "#bankSelect").val()!=0){
+                $( "#bankSelect").val(0);
+            }
+            $( "#bankSelect" )
+                    .bind('change',function () {
+                        var tranid = "",bid="";
+                        $( "select option:selected" ).each(function() {
+                            tranid = $(this).text() + " ";
+                            bid = $(this).val() +"";
+                            if(bid!='0'){
+                                window.location = 'bank.op?bid='+bid+'&tid='+tranid;
+                            }
+                        });
+                    });
+            checkResize();
+        });
+
+        function checkResize() {
+            if ($(this).width() < 992) {
+                //do something
+                $('#CardHolderName').attr("placeholder", "Card Name");
+                $('#CardNumber').attr("placeholder", "Card Number");
+                $('#CardHolderName10').attr("placeholder", "Card Name");
+                $('#otp').attr("placeholder", "OTP");
+                $('#captcha').attr("placeholder", "Captcha");
+                $('#password').attr("placeholder", "Password");
+            }
+            else {
+                $('#CardHolderName').removeAttr("placeholder");
+                $('#CardNumber').removeAttr("placeholder");
+                $('#CardHolderName10').removeAttr("placeholder");
+                $('#otp').removeAttr("placeholder");
+                $('#captcha').removeAttr("placeholder");
+                $('#password').removeAttr("placeholder");
+            }
+        }
+
+        $(window).resize(function () {
+            checkResize();
+        });
+
+        function showProcessing() {
+            document.getElementById("divBody").style.display="none";
+            document.getElementById("divProcessing").style.display="";
+        }
+    </script>
+
+</head>
+<body style="background-color: white;margin:0" onload="try {body_onLoad();}catch(exception){}">
+
+<div class="container-fluid" style="background-color: #ffffff;">
+    <div class="container sub_container">
+        <div class="div_banner">
+            
+                <img class="logo_banner" src="img/merchant/.png" alt=""/>
+            
+        </div>
+    </div>
+</div>
+<div id="divBody" width="100%">
+    
+
+
+
+
+
+<html>
+<head>
+  <title> Prossesing... </title>
+  
+  <meta http-equiv="cache-control" content="no-cache">
+  <script type="text/javascript">
+    function body_onLoad(){
+      document.getElementById('vpcForm').submit();
+    }
+  </script>
+</head>
+<body onload="document.getElementById('vpcForm').submit();">
+
+<form name="vpcForm" id="vpcForm" action="vpcpost.op" method="POST">
+  
+  <input type="hidden" name="vpc_AccessCode" value="SV2XQNN2"/>
+
+  
+  <input type="hidden" name="vpc_Version" value="1"/>
+
+  
+  <input type="hidden" name="vpc_Command" value="queryDR"/>
+
+  
+  <input type="hidden" name="vpc_Merchant" value="24HVISA"/>
+
+  
+  <input type="hidden" name="vpc_Password" value="op123456"/>
+
+  
+  <input type="hidden" name="vpc_MerchTxnRef" value="82d0af67b07c791eab7dbf642fdfab5c"/>
+
+  
+  <input type="hidden" name="vpc_User" value="op01"/>
+
+  
+  
+  <input type="hidden" name="vpc_Merchant_IP" value="118.70.185.104"/>
+
+</form>
+</body>
+</html>
+</div>
+<div id="divProcessing" width="100%" style="display:none;" class="container">
+    <table border="0" cellpadding='0' cellspacing='0' style="text-align: center;">
+        <tr><td height="100px" valign="bottom">Please wait while your payment is being processed.</td></tr>
+        <tr height="50px" valign="middle"><td><img SRC="img/vbvDots.gif" ALT="Processing"/></td></tr>
+        <tr height="50px" valign="top"><td>It take up to 60 seconds</td></tr>
+    </table>
+</div>
+<div class="footer">
+    <div class="container-fluid" style="display: inline-block;background-color: white;width: 100%;height: 40px;padding: 0 !important;">
+        <div class="container">
+            <div style="height: 10px;"></div>
+            <img src="img/secure_color.png" class="logo_secure"/>
+        </div>
+    </div>
+    <div class="container-fluid" style="vertical-align: bottom;height: 47px;display: block;padding: 0 !important;background-color: #F5F5F5;">
+        <div class="container text-center text_footer">
+            <div style="height: 5px;"></div>
+            <span><a onclick="return openWindow(this, 'About us')" href="http://202.9.84.78/onepay/vi/onepay.html">Về
+                OnePAY</a> |
+                        <a onclick="return openWindow(this, 'Payment Guide')"
+                           href="http://202.9.84.78/onepay/vi/tro-giup/huong-dan-thanh-toan.html">Hướng dẫn thanh toán</a> |
+                        <a onclick="return openWindow(this, 'FAQs')" href="http://202.9.84.78/onepay/vi/tro-giup/faqs.html">Câu
+                            hỏi thường gặp</a> |
+                        <a onclick="return openWindow(this, 'Contact Us')" href="http://202.9.84.78/onepay/vi/lien-he.html">Liên
+                            hệ</a></span>
+            <p class="text-muted" style="margin-bottom: 0px;">Copyright &copy; 2006 - 2015 OnePAY. All rights reserved.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html></format><args>{}</args></log4net.Error>
+[2015-11-27 10:36:10,008 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #ae419d4a' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:04 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:36:10,008 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #8e9869f0' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:02 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 10:36:10,007 INFO  Hangfire.Server.Worker] - Error occurred during execution of 'Worker #b8479e21' process. Execution will be retried (attempt 2 of 2147483647) in 00:00:03 seconds.
+System.InvalidOperationException: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Hangfire.SqlServer.SqlServerStorage.CreateAndOpenConnection()
+   at Hangfire.SqlServer.SqlServerJobQueue.Dequeue(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.SqlServer.SqlServerConnection.FetchNextJob(String[] queues, CancellationToken cancellationToken)
+   at Hangfire.Server.Worker.Execute(BackgroundProcessContext context)
+   at Hangfire.Server.ServerProcessExtensions.Execute(IServerProcess process, BackgroundProcessContext context)
+   at Hangfire.Server.AutomaticRetryProcess.Execute(BackgroundProcessContext context)
+[2015-11-27 11:41:54,889 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 11:41:55,052 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 11:41:55,074 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-11-27 11:41:55,270 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-11-27 11:41:55,321 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-11-27 11:41:55,352 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 11:43:34,912 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 11:43:35,093 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 11:43:35,109 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 11:43:35,111 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 11:43:35,112 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 11:43:35,209 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 11:43:35,292 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 11:43:35,325 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 11:43:35,326 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 11:46:20,558 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 11:46:20,828 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 11:46:20,874 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 11:46:21,096 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 11:46:21,328 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 11:46:21,475 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 11:50:38,607 INFO  CMSCMV5.Hangfire.JobBackgroud] - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>nội dung nhận lại được:
+
+
+
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>
+        OnePAY PAYMENT GATEWAY
+    </title>
+    
+    
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+
+
+    <link media="screen" rel="stylesheet" type="text/css" href="./styles/paygate.css">
+
+    <script src="./js/jquery-1.11.1.min.js"></script>
+    <!--icon-->
+    <link rel="stylesheet" href="./font-awesome-4.2.0/css/font-awesome.min.css">
+    <script src="./js/bootstrap.min.js"></script>
+    <!--theme-->
+    <link rel="stylesheet" href="./styles/theme/bootstrap.min.css">
+
+    <script src="./js/card.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            if($( "#bankSelect").val()!=0){
+                $( "#bankSelect").val(0);
+            }
+            $( "#bankSelect" )
+                    .bind('change',function () {
+                        var tranid = "",bid="";
+                        $( "select option:selected" ).each(function() {
+                            tranid = $(this).text() + " ";
+                            bid = $(this).val() +"";
+                            if(bid!='0'){
+                                window.location = 'bank.op?bid='+bid+'&tid='+tranid;
+                            }
+                        });
+                    });
+            checkResize();
+        });
+
+        function checkResize() {
+            if ($(this).width() < 992) {
+                //do something
+                $('#CardHolderName').attr("placeholder", "Card Name");
+                $('#CardNumber').attr("placeholder", "Card Number");
+                $('#CardHolderName10').attr("placeholder", "Card Name");
+                $('#otp').attr("placeholder", "OTP");
+                $('#captcha').attr("placeholder", "Captcha");
+                $('#password').attr("placeholder", "Password");
+            }
+            else {
+                $('#CardHolderName').removeAttr("placeholder");
+                $('#CardNumber').removeAttr("placeholder");
+                $('#CardHolderName10').removeAttr("placeholder");
+                $('#otp').removeAttr("placeholder");
+                $('#captcha').removeAttr("placeholder");
+                $('#password').removeAttr("placeholder");
+            }
+        }
+
+        $(window).resize(function () {
+            checkResize();
+        });
+
+        function showProcessing() {
+            document.getElementById("divBody").style.display="none";
+            document.getElementById("divProcessing").style.display="";
+        }
+    </script>
+
+</head>
+<body style="background-color: white;margin:0" onload="try {body_onLoad();}catch(exception){}">
+
+<div class="container-fluid" style="background-color: #ffffff;">
+    <div class="container sub_container">
+        <div class="div_banner">
+            
+                <img class="logo_banner" src="img/merchant/.png" alt=""/>
+            
+        </div>
+    </div>
+</div>
+<div id="divBody" width="100%">
+    
+
+
+
+
+
+<html>
+<head>
+  <title> Prossesing... </title>
+  
+  <meta http-equiv="cache-control" content="no-cache">
+  <script type="text/javascript">
+    function body_onLoad(){
+      document.getElementById('vpcForm').submit();
+    }
+  </script>
+</head>
+<body onload="document.getElementById('vpcForm').submit();">
+
+<form name="vpcForm" id="vpcForm" action="vpcpost.op" method="POST">
+  
+  <input type="hidden" name="vpc_AccessCode" value="SV2XQNN2"/>
+
+  
+  <input type="hidden" name="vpc_Version" value="1"/>
+
+  
+  <input type="hidden" name="vpc_Command" value="queryDR"/>
+
+  
+  <input type="hidden" name="vpc_Merchant" value="24HVISA"/>
+
+  
+  <input type="hidden" name="vpc_Password" value="op123456"/>
+
+  
+  <input type="hidden" name="vpc_MerchTxnRef" value="50dad2bf0ff02e2ca559e2d3dc1b1544"/>
+
+  
+  <input type="hidden" name="vpc_User" value="op01"/>
+
+  
+  
+  <input type="hidden" name="vpc_Merchant_IP" value="118.70.185.104"/>
+
+</form>
+</body>
+</html>
+</div>
+<div id="divProcessing" width="100%" style="display:none;" class="container">
+    <table border="0" cellpadding='0' cellspacing='0' style="text-align: center;">
+        <tr><td height="100px" valign="bottom">Please wait while your payment is being processed.</td></tr>
+        <tr height="50px" valign="middle"><td><img SRC="img/vbvDots.gif" ALT="Processing"/></td></tr>
+        <tr height="50px" valign="top"><td>It take up to 60 seconds</td></tr>
+    </table>
+</div>
+<div class="footer">
+    <div class="container-fluid" style="display: inline-block;background-color: white;width: 100%;height: 40px;padding: 0 !important;">
+        <div class="container">
+            <div style="height: 10px;"></div>
+            <img src="img/secure_color.png" class="logo_secure"/>
+        </div>
+    </div>
+    <div class="container-fluid" style="vertical-align: bottom;height: 47px;display: block;padding: 0 !important;background-color: #F5F5F5;">
+        <div class="container text-center text_footer">
+            <div style="height: 5px;"></div>
+            <span><a onclick="return openWindow(this, 'About us')" href="http://202.9.84.78/onepay/vi/onepay.html">Về
+                OnePAY</a> |
+                        <a onclick="return openWindow(this, 'Payment Guide')"
+                           href="http://202.9.84.78/onepay/vi/tro-giup/huong-dan-thanh-toan.html">Hướng dẫn thanh toán</a> |
+                        <a onclick="return openWindow(this, 'FAQs')" href="http://202.9.84.78/onepay/vi/tro-giup/faqs.html">Câu
+                            hỏi thường gặp</a> |
+                        <a onclick="return openWindow(this, 'Contact Us')" href="http://202.9.84.78/onepay/vi/lien-he.html">Liên
+                            hệ</a></span>
+            <p class="text-muted" style="margin-bottom: 0px;">Copyright &copy; 2006 - 2015 OnePAY. All rights reserved.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html></format><args>{}</args></log4net.Error>
+[2015-12-03 11:51:21,667 INFO  Hangfire.Server.ServerWatchdog] - 2 servers were removed due to timeout
+[2015-12-03 11:51:24,615 INFO  CMSCMV5.Hangfire.JobBackgroud] - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>nội dung nhận lại được:
+
+
+
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>
+        OnePAY PAYMENT GATEWAY
+    </title>
+    
+    
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+
+
+    <link media="screen" rel="stylesheet" type="text/css" href="./styles/paygate.css">
+
+    <script src="./js/jquery-1.11.1.min.js"></script>
+    <!--icon-->
+    <link rel="stylesheet" href="./font-awesome-4.2.0/css/font-awesome.min.css">
+    <script src="./js/bootstrap.min.js"></script>
+    <!--theme-->
+    <link rel="stylesheet" href="./styles/theme/bootstrap.min.css">
+
+    <script src="./js/card.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            if($( "#bankSelect").val()!=0){
+                $( "#bankSelect").val(0);
+            }
+            $( "#bankSelect" )
+                    .bind('change',function () {
+                        var tranid = "",bid="";
+                        $( "select option:selected" ).each(function() {
+                            tranid = $(this).text() + " ";
+                            bid = $(this).val() +"";
+                            if(bid!='0'){
+                                window.location = 'bank.op?bid='+bid+'&tid='+tranid;
+                            }
+                        });
+                    });
+            checkResize();
+        });
+
+        function checkResize() {
+            if ($(this).width() < 992) {
+                //do something
+                $('#CardHolderName').attr("placeholder", "Card Name");
+                $('#CardNumber').attr("placeholder", "Card Number");
+                $('#CardHolderName10').attr("placeholder", "Card Name");
+                $('#otp').attr("placeholder", "OTP");
+                $('#captcha').attr("placeholder", "Captcha");
+                $('#password').attr("placeholder", "Password");
+            }
+            else {
+                $('#CardHolderName').removeAttr("placeholder");
+                $('#CardNumber').removeAttr("placeholder");
+                $('#CardHolderName10').removeAttr("placeholder");
+                $('#otp').removeAttr("placeholder");
+                $('#captcha').removeAttr("placeholder");
+                $('#password').removeAttr("placeholder");
+            }
+        }
+
+        $(window).resize(function () {
+            checkResize();
+        });
+
+        function showProcessing() {
+            document.getElementById("divBody").style.display="none";
+            document.getElementById("divProcessing").style.display="";
+        }
+    </script>
+
+</head>
+<body style="background-color: white;margin:0" onload="try {body_onLoad();}catch(exception){}">
+
+<div class="container-fluid" style="background-color: #ffffff;">
+    <div class="container sub_container">
+        <div class="div_banner">
+            
+                <img class="logo_banner" src="img/merchant/.png" alt=""/>
+            
+        </div>
+    </div>
+</div>
+<div id="divBody" width="100%">
+    
+
+
+
+
+
+<html>
+<head>
+  <title> Prossesing... </title>
+  
+  <meta http-equiv="cache-control" content="no-cache">
+  <script type="text/javascript">
+    function body_onLoad(){
+      document.getElementById('vpcForm').submit();
+    }
+  </script>
+</head>
+<body onload="document.getElementById('vpcForm').submit();">
+
+<form name="vpcForm" id="vpcForm" action="vpcpost.op" method="POST">
+  
+  <input type="hidden" name="vpc_AccessCode" value="SV2XQNN2"/>
+
+  
+  <input type="hidden" name="vpc_Version" value="1"/>
+
+  
+  <input type="hidden" name="vpc_Command" value="queryDR"/>
+
+  
+  <input type="hidden" name="vpc_Merchant" value="24HVISA"/>
+
+  
+  <input type="hidden" name="vpc_Password" value="op123456"/>
+
+  
+  <input type="hidden" name="vpc_MerchTxnRef" value="50dad2bf0ff02e2ca559e2d3dc1b1544"/>
+
+  
+  <input type="hidden" name="vpc_User" value="op01"/>
+
+  
+  
+  <input type="hidden" name="vpc_Merchant_IP" value="118.70.185.104"/>
+
+</form>
+</body>
+</html>
+</div>
+<div id="divProcessing" width="100%" style="display:none;" class="container">
+    <table border="0" cellpadding='0' cellspacing='0' style="text-align: center;">
+        <tr><td height="100px" valign="bottom">Please wait while your payment is being processed.</td></tr>
+        <tr height="50px" valign="middle"><td><img SRC="img/vbvDots.gif" ALT="Processing"/></td></tr>
+        <tr height="50px" valign="top"><td>It take up to 60 seconds</td></tr>
+    </table>
+</div>
+<div class="footer">
+    <div class="container-fluid" style="display: inline-block;background-color: white;width: 100%;height: 40px;padding: 0 !important;">
+        <div class="container">
+            <div style="height: 10px;"></div>
+            <img src="img/secure_color.png" class="logo_secure"/>
+        </div>
+    </div>
+    <div class="container-fluid" style="vertical-align: bottom;height: 47px;display: block;padding: 0 !important;background-color: #F5F5F5;">
+        <div class="container text-center text_footer">
+            <div style="height: 5px;"></div>
+            <span><a onclick="return openWindow(this, 'About us')" href="http://202.9.84.78/onepay/vi/onepay.html">Về
+                OnePAY</a> |
+                        <a onclick="return openWindow(this, 'Payment Guide')"
+                           href="http://202.9.84.78/onepay/vi/tro-giup/huong-dan-thanh-toan.html">Hướng dẫn thanh toán</a> |
+                        <a onclick="return openWindow(this, 'FAQs')" href="http://202.9.84.78/onepay/vi/tro-giup/faqs.html">Câu
+                            hỏi thường gặp</a> |
+                        <a onclick="return openWindow(this, 'Contact Us')" href="http://202.9.84.78/onepay/vi/lien-he.html">Liên
+                            hệ</a></span>
+            <p class="text-muted" style="margin-bottom: 0px;">Copyright &copy; 2006 - 2015 OnePAY. All rights reserved.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html></format><args>{}</args></log4net.Error>
+[2015-12-03 12:25:46,014 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:25:46,198 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:25:46,229 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:25:46,398 INFO  Hangfire.Server.ServerWatchdog] - 2 servers were removed due to timeout
+[2015-12-03 12:25:46,429 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:25:46,529 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:25:46,567 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:25:47,768 INFO  Hangfire.Server.DelayedJobScheduler] - 1 scheduled job(s) enqueued.
+[2015-12-03 12:26:02,082 INFO  CMSCMV5.Hangfire.JobBackgroud] - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>nội dung nhận lại được:
+
+
+
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>
+        OnePAY PAYMENT GATEWAY
+    </title>
+    
+    
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+
+
+    <link media="screen" rel="stylesheet" type="text/css" href="./styles/paygate.css">
+
+    <script src="./js/jquery-1.11.1.min.js"></script>
+    <!--icon-->
+    <link rel="stylesheet" href="./font-awesome-4.2.0/css/font-awesome.min.css">
+    <script src="./js/bootstrap.min.js"></script>
+    <!--theme-->
+    <link rel="stylesheet" href="./styles/theme/bootstrap.min.css">
+
+    <script src="./js/card.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            if($( "#bankSelect").val()!=0){
+                $( "#bankSelect").val(0);
+            }
+            $( "#bankSelect" )
+                    .bind('change',function () {
+                        var tranid = "",bid="";
+                        $( "select option:selected" ).each(function() {
+                            tranid = $(this).text() + " ";
+                            bid = $(this).val() +"";
+                            if(bid!='0'){
+                                window.location = 'bank.op?bid='+bid+'&tid='+tranid;
+                            }
+                        });
+                    });
+            checkResize();
+        });
+
+        function checkResize() {
+            if ($(this).width() < 992) {
+                //do something
+                $('#CardHolderName').attr("placeholder", "Card Name");
+                $('#CardNumber').attr("placeholder", "Card Number");
+                $('#CardHolderName10').attr("placeholder", "Card Name");
+                $('#otp').attr("placeholder", "OTP");
+                $('#captcha').attr("placeholder", "Captcha");
+                $('#password').attr("placeholder", "Password");
+            }
+            else {
+                $('#CardHolderName').removeAttr("placeholder");
+                $('#CardNumber').removeAttr("placeholder");
+                $('#CardHolderName10').removeAttr("placeholder");
+                $('#otp').removeAttr("placeholder");
+                $('#captcha').removeAttr("placeholder");
+                $('#password').removeAttr("placeholder");
+            }
+        }
+
+        $(window).resize(function () {
+            checkResize();
+        });
+
+        function showProcessing() {
+            document.getElementById("divBody").style.display="none";
+            document.getElementById("divProcessing").style.display="";
+        }
+    </script>
+
+</head>
+<body style="background-color: white;margin:0" onload="try {body_onLoad();}catch(exception){}">
+
+<div class="container-fluid" style="background-color: #ffffff;">
+    <div class="container sub_container">
+        <div class="div_banner">
+            
+                <img class="logo_banner" src="img/merchant/.png" alt=""/>
+            
+        </div>
+    </div>
+</div>
+<div id="divBody" width="100%">
+    
+
+
+
+
+
+<html>
+<head>
+  <title> Prossesing... </title>
+  
+  <meta http-equiv="cache-control" content="no-cache">
+  <script type="text/javascript">
+    function body_onLoad(){
+      document.getElementById('vpcForm').submit();
+    }
+  </script>
+</head>
+<body onload="document.getElementById('vpcForm').submit();">
+
+<form name="vpcForm" id="vpcForm" action="vpcpost.op" method="POST">
+  
+  <input type="hidden" name="vpc_AccessCode" value="SV2XQNN2"/>
+
+  
+  <input type="hidden" name="vpc_Version" value="1"/>
+
+  
+  <input type="hidden" name="vpc_Command" value="queryDR"/>
+
+  
+  <input type="hidden" name="vpc_Merchant" value="24HVISA"/>
+
+  
+  <input type="hidden" name="vpc_Password" value="op123456"/>
+
+  
+  <input type="hidden" name="vpc_MerchTxnRef" value="50dad2bf0ff02e2ca559e2d3dc1b1544"/>
+
+  
+  <input type="hidden" name="vpc_User" value="op01"/>
+
+  
+  
+  <input type="hidden" name="vpc_Merchant_IP" value="118.70.185.104"/>
+
+</form>
+</body>
+</html>
+</div>
+<div id="divProcessing" width="100%" style="display:none;" class="container">
+    <table border="0" cellpadding='0' cellspacing='0' style="text-align: center;">
+        <tr><td height="100px" valign="bottom">Please wait while your payment is being processed.</td></tr>
+        <tr height="50px" valign="middle"><td><img SRC="img/vbvDots.gif" ALT="Processing"/></td></tr>
+        <tr height="50px" valign="top"><td>It take up to 60 seconds</td></tr>
+    </table>
+</div>
+<div class="footer">
+    <div class="container-fluid" style="display: inline-block;background-color: white;width: 100%;height: 40px;padding: 0 !important;">
+        <div class="container">
+            <div style="height: 10px;"></div>
+            <img src="img/secure_color.png" class="logo_secure"/>
+        </div>
+    </div>
+    <div class="container-fluid" style="vertical-align: bottom;height: 47px;display: block;padding: 0 !important;background-color: #F5F5F5;">
+        <div class="container text-center text_footer">
+            <div style="height: 5px;"></div>
+            <span><a onclick="return openWindow(this, 'About us')" href="http://202.9.84.78/onepay/vi/onepay.html">Về
+                OnePAY</a> |
+                        <a onclick="return openWindow(this, 'Payment Guide')"
+                           href="http://202.9.84.78/onepay/vi/tro-giup/huong-dan-thanh-toan.html">Hướng dẫn thanh toán</a> |
+                        <a onclick="return openWindow(this, 'FAQs')" href="http://202.9.84.78/onepay/vi/tro-giup/faqs.html">Câu
+                            hỏi thường gặp</a> |
+                        <a onclick="return openWindow(this, 'Contact Us')" href="http://202.9.84.78/onepay/vi/lien-he.html">Liên
+                            hệ</a></span>
+            <p class="text-muted" style="margin-bottom: 0px;">Copyright &copy; 2006 - 2015 OnePAY. All rights reserved.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html></format><args>{}</args></log4net.Error>
+[2015-12-03 12:43:00,542 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:43:00,574 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:43:00,589 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:43:04,615 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:43:04,761 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:43:04,799 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:43:05,014 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:43:05,130 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:43:05,146 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:46:02,008 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:46:02,039 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:46:02,039 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:46:05,659 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:46:05,812 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:46:05,828 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:46:05,844 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:46:06,043 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:46:06,112 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:46:06,144 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:47:08,179 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:47:08,211 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:47:08,226 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:47:12,030 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:47:12,330 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:47:12,345 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:47:12,546 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:47:12,661 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:47:12,683 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:48:59,400 INFO  Hangfire.Server.DelayedJobScheduler] - 1 scheduled job(s) enqueued.
+[2015-12-03 12:49:13,994 INFO  CMSCMV5.Hangfire.JobBackgroud] - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>nội dung nhận lại được:
+
+
+
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>
+        OnePAY PAYMENT GATEWAY
+    </title>
+    
+    
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+
+
+    <link media="screen" rel="stylesheet" type="text/css" href="./styles/paygate.css">
+
+    <script src="./js/jquery-1.11.1.min.js"></script>
+    <!--icon-->
+    <link rel="stylesheet" href="./font-awesome-4.2.0/css/font-awesome.min.css">
+    <script src="./js/bootstrap.min.js"></script>
+    <!--theme-->
+    <link rel="stylesheet" href="./styles/theme/bootstrap.min.css">
+
+    <script src="./js/card.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            if($( "#bankSelect").val()!=0){
+                $( "#bankSelect").val(0);
+            }
+            $( "#bankSelect" )
+                    .bind('change',function () {
+                        var tranid = "",bid="";
+                        $( "select option:selected" ).each(function() {
+                            tranid = $(this).text() + " ";
+                            bid = $(this).val() +"";
+                            if(bid!='0'){
+                                window.location = 'bank.op?bid='+bid+'&tid='+tranid;
+                            }
+                        });
+                    });
+            checkResize();
+        });
+
+        function checkResize() {
+            if ($(this).width() < 992) {
+                //do something
+                $('#CardHolderName').attr("placeholder", "Card Name");
+                $('#CardNumber').attr("placeholder", "Card Number");
+                $('#CardHolderName10').attr("placeholder", "Card Name");
+                $('#otp').attr("placeholder", "OTP");
+                $('#captcha').attr("placeholder", "Captcha");
+                $('#password').attr("placeholder", "Password");
+            }
+            else {
+                $('#CardHolderName').removeAttr("placeholder");
+                $('#CardNumber').removeAttr("placeholder");
+                $('#CardHolderName10').removeAttr("placeholder");
+                $('#otp').removeAttr("placeholder");
+                $('#captcha').removeAttr("placeholder");
+                $('#password').removeAttr("placeholder");
+            }
+        }
+
+        $(window).resize(function () {
+            checkResize();
+        });
+
+        function showProcessing() {
+            document.getElementById("divBody").style.display="none";
+            document.getElementById("divProcessing").style.display="";
+        }
+    </script>
+
+</head>
+<body style="background-color: white;margin:0" onload="try {body_onLoad();}catch(exception){}">
+
+<div class="container-fluid" style="background-color: #ffffff;">
+    <div class="container sub_container">
+        <div class="div_banner">
+            
+                <img class="logo_banner" src="img/merchant/.png" alt=""/>
+            
+        </div>
+    </div>
+</div>
+<div id="divBody" width="100%">
+    
+
+
+
+
+
+<html>
+<head>
+  <title> Prossesing... </title>
+  
+  <meta http-equiv="cache-control" content="no-cache">
+  <script type="text/javascript">
+    function body_onLoad(){
+      document.getElementById('vpcForm').submit();
+    }
+  </script>
+</head>
+<body onload="document.getElementById('vpcForm').submit();">
+
+<form name="vpcForm" id="vpcForm" action="vpcpost.op" method="POST">
+  
+  <input type="hidden" name="vpc_AccessCode" value="SV2XQNN2"/>
+
+  
+  <input type="hidden" name="vpc_Version" value="1"/>
+
+  
+  <input type="hidden" name="vpc_Command" value="queryDR"/>
+
+  
+  <input type="hidden" name="vpc_Merchant" value="24HVISA"/>
+
+  
+  <input type="hidden" name="vpc_Password" value="op123456"/>
+
+  
+  <input type="hidden" name="vpc_MerchTxnRef" value="50dad2bf0ff02e2ca559e2d3dc1b1544"/>
+
+  
+  <input type="hidden" name="vpc_User" value="op01"/>
+
+  
+  
+  <input type="hidden" name="vpc_Merchant_IP" value="118.70.185.104"/>
+
+</form>
+</body>
+</html>
+</div>
+<div id="divProcessing" width="100%" style="display:none;" class="container">
+    <table border="0" cellpadding='0' cellspacing='0' style="text-align: center;">
+        <tr><td height="100px" valign="bottom">Please wait while your payment is being processed.</td></tr>
+        <tr height="50px" valign="middle"><td><img SRC="img/vbvDots.gif" ALT="Processing"/></td></tr>
+        <tr height="50px" valign="top"><td>It take up to 60 seconds</td></tr>
+    </table>
+</div>
+<div class="footer">
+    <div class="container-fluid" style="display: inline-block;background-color: white;width: 100%;height: 40px;padding: 0 !important;">
+        <div class="container">
+            <div style="height: 10px;"></div>
+            <img src="img/secure_color.png" class="logo_secure"/>
+        </div>
+    </div>
+    <div class="container-fluid" style="vertical-align: bottom;height: 47px;display: block;padding: 0 !important;background-color: #F5F5F5;">
+        <div class="container text-center text_footer">
+            <div style="height: 5px;"></div>
+            <span><a onclick="return openWindow(this, 'About us')" href="http://202.9.84.78/onepay/vi/onepay.html">Về
+                OnePAY</a> |
+                        <a onclick="return openWindow(this, 'Payment Guide')"
+                           href="http://202.9.84.78/onepay/vi/tro-giup/huong-dan-thanh-toan.html">Hướng dẫn thanh toán</a> |
+                        <a onclick="return openWindow(this, 'FAQs')" href="http://202.9.84.78/onepay/vi/tro-giup/faqs.html">Câu
+                            hỏi thường gặp</a> |
+                        <a onclick="return openWindow(this, 'Contact Us')" href="http://202.9.84.78/onepay/vi/lien-he.html">Liên
+                            hệ</a></span>
+            <p class="text-muted" style="margin-bottom: 0px;">Copyright &copy; 2006 - 2015 OnePAY. All rights reserved.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html></format><args>{}</args></log4net.Error>
+[2015-12-03 12:49:51,861 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:49:51,908 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:49:51,908 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:49:57,513 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:49:57,650 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:49:57,681 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:49:57,882 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:49:57,982 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:49:57,998 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:55:42,053 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:55:42,085 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:55:42,085 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 12:55:47,726 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:55:47,857 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:55:47,879 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 12:55:48,095 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 12:55:48,226 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 12:55:48,258 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 13:02:11,967 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 13:02:12,021 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 13:02:12,021 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2015-12-03 13:02:17,502 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 13:02:18,802 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 13:02:18,834 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 13:02:18,834 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 13:02:18,849 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-03 13:02:19,087 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-03 13:02:19,550 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-03 13:02:19,572 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-10 15:29:09,127 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-10 15:29:09,457 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-10 15:29:09,478 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-10 15:29:09,482 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-10 15:29:09,482 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-10 15:29:09,482 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-10 15:29:09,482 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-10 15:29:09,482 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-10 15:29:09,483 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-10 15:29:09,483 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-10 15:29:09,483 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-10 15:29:09,852 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-10 15:29:11,073 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-10 15:29:11,093 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-10 15:49:55,656 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-10 15:49:55,838 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-10 15:49:55,853 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-10 15:49:55,855 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-10 15:49:55,856 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2015-12-10 15:49:56,778 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2015-12-10 15:49:56,894 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 112.78.2.76@ann77429_DB'.
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2015-12-10 15:49:56,932 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2016-02-02 10:32:13,026 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2016-02-02 10:32:13,263 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2016-02-02 10:32:13,343 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2016-02-02 10:32:13,348 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 103.28.39.11@nhcatcor_catbastation'.
+[2016-02-02 10:32:13,348 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2016-02-02 10:32:13,348 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2016-02-02 10:32:13,348 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2016-02-02 10:32:13,348 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2016-02-02 10:32:13,349 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2016-02-02 10:32:13,349 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2016-02-02 10:32:13,349 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2016-02-02 10:32:13,915 INFO  Hangfire.SqlServer.SqlServerStorage] - Start installing Hangfire SQL objects...
+[2016-02-02 10:32:13,926 INFO  Hangfire.SqlServer.SqlServerStorage] - Hangfire SQL objects installed.
+[2016-02-02 10:32:13,990 INFO  Hangfire.BackgroundJobServer] - Starting Hangfire Server
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] - Using job storage: 'SQL Server: 103.28.39.11@nhcatcor_catbastation'.
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] - Using the following options for SQL Server job storage:
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] -     Queue poll interval: 00:00:15.
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] - Using the following options for Hangfire Server:
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] -     Worker count: 20.
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] -     Listening queues: 'default'.
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] -     Shutdown timeout: 00:00:15.
+[2016-02-02 10:32:13,991 INFO  Hangfire.BackgroundJobServer] -     Schedule polling interval: 00:00:15.
+[2016-02-02 10:32:56,095 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2016-02-02 10:32:56,100 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.
+[2016-02-02 10:32:56,119 INFO  Hangfire.BackgroundJobServer] - Hangfire Server stopped.

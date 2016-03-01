@@ -1,0 +1,58 @@
+﻿@model CMSCMV5.Areas.Admin.Models.CreateGroupModel
+
+<div class="col-lg-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Thông tin chi tiết
+        </div>
+        <div class="panel-body">
+            @if (Model != null)
+            {
+                <div class="row">
+                    <div class="col-lg-12">
+                        <form role="form" action="@Url.Action("Group")" method="post">
+                            @if (TempData["mess"] != null)
+                            {
+                                <div class="alert alert-success">
+                                    @TempData["mess"]
+                                </div>
+                            }
+                            <div class="form-group">
+                                <label>Tên nhóm</label>
+                                @Html.TextBoxFor(x => x.name, new { @class = "form-control" })
+                                <p class="help-block">@Html.ValidationMessageFor(x => x.name)</p>
+                            </div>
+                            <div class="form-group">
+                                <label>Mô tả chức năng của nhóm</label>
+                                @Html.TextBoxFor(x => x.description, new { @class = "form-control" })
+                                <p class="help-block">@Html.ValidationMessageFor(x => x.description)</p>
+                            </div>
+                            <div class="form-group">
+                                <label>Quyền sử dụng</label>
+                                @for (int i = 0; i < Model.roles.Count; i++)
+                                {
+                                    <div class="checkbox">
+                                        <label>
+                                            @Html.CheckBoxFor(x => Model.roles[i].check)@Model.roles[i].description
+                                            @Html.HiddenFor(x => Model.roles[i].name)
+                                            @Html.HiddenFor(x => Model.roles[i].description)
+                                        </label>
+                                    </div>
+                                }
+                            </div>
+                            @Html.HiddenFor(x => x.id)
+                            <button type="submit" onclick="return confirm('Bạn có chắc chắn muốn thay đổi dữ liệu nhóm quyền này!');" class=" btn btn-success">Lưu dữ liệu</button>
+                            @if (Model.id != 0)
+                            {
+                                <a class="btn btn-danger" href="@Url.Action("DeleteGroup", "ManagerRole", new { id = Model.id })" onclick="return confirm('Bạn có chắc chắn muốn xóa nhóm quyền này!');" style="float:right;">Xóa dữ liệu</a>
+                            }
+                        </form>
+                    </div>
+                </div>
+            }
+            <!-- /.row (nested) -->
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+</div>
